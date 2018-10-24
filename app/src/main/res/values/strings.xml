@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Two Activites</string>
+    <string name = "editText_second">Enter Your Reply Here</string>
+    <string name="button_second">button_second</string>
+</resources>
